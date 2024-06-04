@@ -1,0 +1,26 @@
+body{
+    background-color: #f4efea;
+}
+
+.header{
+    font-size: 28px;
+    text-align: center;
+    padding: 50px 55px;
+}
+
+.card:hover{
+    box-shadow: 8px 8px 5px rgb(224, 217, 217);    
+    transform: scale(1.1);
+}
+
+.container-footer img {
+    max-width: 100%;
+    align-items: center;
+}
+
+.container-footer{
+    background-color: #fffefe;
+    padding: 50px 50px;
+    border-radius: 10px;
+}
+
